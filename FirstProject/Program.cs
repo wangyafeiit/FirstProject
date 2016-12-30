@@ -11,6 +11,7 @@ namespace FirstProject
         static void Main(string[] args)
         {
             Console.WriteLine("Init");
+            Console.WriteLine("Init1");
         }
     }
 }
